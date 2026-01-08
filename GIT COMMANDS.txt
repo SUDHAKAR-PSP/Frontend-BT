@@ -1,0 +1,13 @@
+GIT COMMANDS :
+
+#### To clone your repo to local ####
+git clone " your repo url"
+
+#### To add the changes files to your repo ####
+git add .
+
+#### Commit your changes to your repo ####
+git commit -m " Sample msg to commit for your reference"
+
+#### To push your changes to your repo ####
+git push
